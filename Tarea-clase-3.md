@@ -1,7 +1,7 @@
 # Observaciones preliminares
 
 - Para poder realizar esta tarea van a tener que tener ya instalados OpenFOAM v10 y Paraview
-- Apoyarse sin miedo tanto en el foro de consultas del Classroom como en chats de inteligencias artificiales (ChatGPT, Gemini, etc) al no saber como continuar en algún punto (siempre responsablemente con el objetivo de aprender y no de que la IA nos haga la modificación por nosotros.
+- Apoyarse sin miedo, tanto en el foro de consultas del Classroom como en chats de inteligencias artificiales (ChatGPT, Gemini, etc) al no saber como continuar en algún punto (siempre responsablemente con el objetivo de aprender y no de que la IA nos haga la modificación por nosotros).
 
 # Tarea Clase 2 - Introducción a OpenFOAM v10
 
