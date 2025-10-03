@@ -7,7 +7,7 @@
 
 ## 1 - Copiar archivos a una carpeta de trabajo.
 
-Vamos a utilizar los carpetas de los tutoriales vistos durante la clase cavity o Square bend liq (Elegir uno a gusto). Que estan en las carpetas:
+Vamos a utilizar los carpetas de los tutoriales vistos durante la clase `cavity` o `Square bend liq` (Elegir uno a gusto). Que estan en las carpetas:
 
 - `cavity`: `/opt/openfoam10/tutorials/incompressible/icoFoam/cavity/cavity`
 - `Square bend liq`: `/opt/openfoam10/tutorials/compressible/rhoSimpleFoam/squareBendLiq`
@@ -22,7 +22,7 @@ Realizar una ejecución del caso tutorial según los comandos vistos en clase.
 
 (En esta parte no deberíamos ver fallas ni problemas, salvo que nos equivoquemos de comandos).
 
-## 2 - Realizar una modificación en una condición de contorno
+## 3 - Realizar una modificación en una condición de contorno
 
 Modificar alguna de las condiciones de contorno de la simulación (aumentando o disminuyendo la velocidad, la presión, la temperatura). Elegir alguna a conciencia y modificar su valor con **cuidado**.
 
@@ -30,7 +30,7 @@ Luego realizar una corrida del caso tutorial nuevamente y visualizar los datos e
 
 Posteriormente exportar una imagen de sus mapas de presión y velocidad como .png desde Paraview.
 
-## 3 - Modifcar el blockMesh del caso tutorial
+## 4 - Modifcar el blockMesh del caso tutorial
 
 Tomar la geometria inicial (que está en blockMesh) y modificarla. Tomar alguna de sus dimensiones (en x, y o z) y hacerla mas grande (por ejemplo en X si corresponde). Luego también agregar mas celdas en la dimensión que volvimos mas grande. Por ejemplo:
 
@@ -38,7 +38,7 @@ Si a un tubo rectangular lo volvimos mas grande en la dimensión X, deberemos ag
 
 Luego de esto, simular nuevamente y posteriormente exportar una imagen de sus mapas de presión y velocidad como .png desde Paraview.
 
-## 4 - (Opcional) para el caso `Square bend liq`
+## 5 - (Opcional) para el caso `Square bend liq`
 
 Modificar el modelo de transporte de momento, de turbulento a laminar y analizar los mapas de presión y temperatura. 
 1. ¿Cambian en algo sus mapas?
